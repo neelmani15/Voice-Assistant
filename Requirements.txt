@@ -1,0 +1,22 @@
+A) Three Simple python Package need to install 
+    1) Speech Recogination
+    2) Python pyttsx3
+    3) Python Pyaudio ---> Install by pip install pipwin and then pipwin install pyaudio
+B) Install Python Pywhatkit
+C) Install Python Wekipedia
+D) Python pyjokes
+E) Python WebBrowser
+F) Python Selenium
+G) Search Path of Chrome Driver
+      Following steps have to follow to set chrome driver path.
+      1) Check chrome version
+      2) Download chrome driver:--> https://chromedriver.chromium.org/downloads
+      3) Script level:- For selenium
+      4) Set Chromedriver Path via command line option
+H) Python requests 
+I) Python randsfact
+J) API Key from Openweathermap website for Weather API
+K) API key from Newsapi.org website for News API
+L) OS
+M) Python Tkinter
+N) Python Pillow

@@ -1,0 +1,15 @@
+1) Play music   [Done]         Local Device
+2) Facts		[Done]
+3) Weather    	[Done]         API (OPenWheathermap)
+4) Whatsapp (if possible) and more function from Pywhatkit
+5) Play movies  [Done]         Local Device
+6) Hackerrank   [Done]
+7) Youtube	    [Done]
+8) Current Time	[Done]
+9) Wikipedia	[Done]
+10) Joke		[Done]
+11) Stackoverflow   [Done]
+12) Codechef	[Done]
+13) Leetcode	[Done]
+14) Latest News	[Done]          API(Newsapi.org)
+15) Email       [Done]

@@ -1,0 +1,25 @@
+                                                                     [-------Voice Assistant --------------- SIRI-------]
+
+1) All the imported library was discuss on Requirements.txt
+2) Work to be done are Discussed on Todo.txt
+3) main.py or Assistant.py are generally same but modification are done of main.py
+4) Task1 - The Voice Assistant wish us according to time
+5) Task2 - The Voice Assistant will tell the date and time
+6) Task3 - The Voice Assistant will tell the details of temperature
+7) Task4 - The Voice Assistant will tell news if it is in the command
+8) Task 5 - The Voice Assistant will tell details of someone or something from wikipedia if wikipedia in command
+9) Task 6 - The Voice Assistant will open codechef from the browser if open codechef in command
+10) Task 7 - The Voice Assistant will open leetcode from the browser if open leetcode in command
+11) Task 8 - The Voice Assistant will open stack overflow from the browser if open stack overflow in command
+12) Task 9 - The Voice Assistant will open hackerrank from the browser if open hackerrank in command
+13) Task 10 - The Voice Assistant will open google meet from the browser if open google meet in command
+14) Task 11 - The Voice Assistant will  open wikipedia if about in command
+15) Task 12 - The Voice Assistant will tell joke if joke in the command
+16) Task 13 - The Voice Assistant will play music from the local device if play music in command 
+17) Task 14 - The Voice Assistant will  play movie from the local device if play movie in command
+18) Task 15 - The Voice Assistant will play music on Youtube if play in command
+19) Task 16 - The Voice Assistant will tell us a fact if fact in the command
+20) Task 17 - The Voice Assistant will send an email if send email in the command
+21) Task 18 - The Voice Assistant will quit or stop if quit in command
+22) This all are the work perform by Voice Assistant
+23) Function made are talk(), wishme(), sendEmail() and run_siri()
