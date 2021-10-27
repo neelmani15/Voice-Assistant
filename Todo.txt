@@ -1,7 +1,7 @@
 1) Play music   [Done]         Local Device
 2) Facts		[Done]
 3) Weather    	[Done]         API (OPenWheathermap)
-4) Whatsapp (if possible) and more function from Pywhatkit
+4) Whatsapp (if possible) and more function from Pywhatkit          [To be Done]
 5) Play movies  [Done]         Local Device
 6) Hackerrank   [Done]
 7) Youtube	    [Done]
@@ -14,3 +14,7 @@
 14) Latest News	[Done]          API(Newsapi.org)
 15) Email       [Done]
 16) UI Tkinter  [Done]          Modify Later
+17) Cricket Score   [To be Done]
+18) Call        [To be Done]
+19) Click Photo 
+20) More to be added 

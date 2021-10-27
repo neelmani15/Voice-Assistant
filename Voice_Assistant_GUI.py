@@ -14,7 +14,7 @@ frame1=Frame(root,bg='#9AFEFF',height=250)
 frame1.pack(fill=X)
 frame2=Frame(root,bg='#806517',height=350)
 frame2.pack(fill=X)
-img=Image.open("micimage.jpg")
+img=Image.open("Important\\micimage.jpg")
 # To addcolor
 #root.config(bg="#4fee8d")
 # Resize the image
