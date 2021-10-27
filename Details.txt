@@ -23,3 +23,4 @@
 21) Task 18 - The Voice Assistant will quit or stop if quit in command
 22) This all are the work perform by Voice Assistant
 23) Function made are talk(), wishme(), sendEmail() and run_siri()
+24) UI are made using Tkinter for Siri Voice Assistant

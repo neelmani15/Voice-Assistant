@@ -20,3 +20,5 @@ K) API key from Newsapi.org website for News API
 L) OS
 M) Python Tkinter
 N) Python Pillow
+O) Added UI using Tkinter
+P) Python smtplib  - To send Email
