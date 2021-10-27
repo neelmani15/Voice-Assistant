@@ -1,5 +1,10 @@
 import requests
-api_address="https://newsapi.org/v2/top-headlines?country=in&apiKey=5f31aabdc1a0491a9bb8e6fa7dcb4ee3"
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+API_Key_News=os.getenv("API_Key_News")
+api_address="https://newsapi.org/v2/top-headlines?country=in&apiKey="+API_Key_News
 json_data = requests.get(api_address).json()
 #print(json_data)
 arr=[]

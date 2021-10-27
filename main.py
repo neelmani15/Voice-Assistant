@@ -11,8 +11,14 @@ from Weather import *
 from news import *
 import os
 import smtplib
-from Impor import *
+from dotenv import load_dotenv
+load_dotenv()
 
+API_Key_News=os.getenv("API_Key_News")
+API_Key_Weather=os.getenv("API_Key_Weather")
+gmail1=os.getenv("gmail1")
+password=os.getenv("password")
+gmail2=os.getenv("gmail2")
 time = datetime.datetime.now()
 search=pt.init('sapi5')
 rate=search.getProperty('rate')
@@ -149,7 +155,7 @@ def run_siri():
         except Exception as e:
             print(e)
             talk("Sorry I am not able to send a email at the moment..")
-    elif "quit" in command:
+    elif "ok" in command:
         exit(0)
     else:
         talk('Please say the command again')

@@ -1,7 +1,12 @@
 import requests
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+API_Key_Weather=os.getenv("API_Key_Weather")
 #city='Muzaffarpur'
 # Taken Location from latitude and longitude of the location
-api_address='http://api.openweathermap.org/data/2.5/weather?lat=26.1197&lon=85.3910&appid=f8dea40766e5f177ac70d436857f5370&units=metric'
+api_address='http://api.openweathermap.org/data/2.5/weather?lat=26.1197&lon=85.3910&appid='+API_Key_Weather+'&units=metric'
 res=requests.get(api_address)
 json_data=res.json()
 def temp():
